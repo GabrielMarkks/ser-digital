@@ -1,0 +1,8 @@
+sm - mobile
+md - Telas médias
+lg - telas largas
+
+
+
+md - min-width: 46.25em
+lg - min-width: 90em
